@@ -1782,14 +1782,51 @@ margin-top:40px;
   			height:32px;
 		}
 		
-		.crzFixH
+		.crzFixH80
 		{
 			height:80px;
+		}
+		
+		.crzFixH60
+		{
+			height:60px;
 		}
 		
 		.crzBox
 		{
 			width:100%;
+		}
+		
+		.crz_three_more
+		{
+  	 		position:relative;
+  			height:27px;
+			bottom:45px;
+    		right:-140px;
+		}
+		
+		.crz_three_title
+		{
+			padding:10px 0px;
+    		font-size:larger;
+    		font-family:'Blackoak Std' YouYuan 'Adobe Heiti Std';
+    		text-align:left ;
+    		letter-spacing:0px;
+			margin:0px;
+		}
+		
+		.crz_product_title
+		{
+			width:850px;
+			height:30px;
+			margin:30px 70px 0px 70px;
+		}
+		
+		.crz_fix_product_title
+		{
+			margin:10px 0px 0px !important;
+			text-align:center !important;
+			letter-spacing:5px !important;
 		}
 		
 /*----------------------------------------------------
@@ -1802,14 +1839,19 @@ margin-top:40px;
     width:auto;
 }
 
-.sizefix_600
+.sizefix_220
 {
-	width:600px;
+	width:220px;
 }
 
 .sizefix_440
 {
     width:400px;
+}
+
+.sizefix_600
+{
+	width:600px;
 }
 
 .dgs_form_info
@@ -1832,10 +1874,6 @@ margin-top:40px;
     /*background-color:#ECECEC; !important*/
 }
 
-.dgs_form_title
-{
-	margin:0px 30px;
-}
 
 .dgs_btn_more
 {
@@ -1860,6 +1898,10 @@ margin-top:40px;
     margin:0 15px 0 0;
 }
 
+.dgs_time
+{
+	color:#847F7F;
+}
 
 .dgs_interval
 {
